@@ -3,7 +3,7 @@ body{
     margin: 0px;
     padding: 0px;
     outline: 0px;
-    background-color: #2d2d2d;
+    background-color: #282828;
     font-family: 'Roboto', sans-serif;
 }
 
@@ -43,6 +43,7 @@ ul{
 footer{
     font-size: large;
     color: white;
-    padding: 20px;
+    padding:17px;
     text-align: center;
+    
 }
